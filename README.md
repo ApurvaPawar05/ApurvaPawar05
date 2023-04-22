@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurva6505&label=Profile%20views&color=0e75b6&style=flat" alt="apurva6505" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apurva6505" alt="apurva6505" /></a> </p>
+
 
 - 🔭 I’m currently working on **Flourishive**
 
@@ -13,6 +13,8 @@
 - 💬 Ask me about **MERN**
 
 - ⚡ Fact about full stack developer **tend to use many languages grouped together according to their needs**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apurva6505" alt="apurva6505" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
