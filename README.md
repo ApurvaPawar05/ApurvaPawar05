@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **Flourishive**
+- 🔭 I’m currently working on **Problem Solving**
 
-- 🌱 I’m currently learning **Sequelize**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - 💬 Ask me about **MERN**
 
