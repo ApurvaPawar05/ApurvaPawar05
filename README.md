@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN**
 
--  How to reach me https://apurvapawar-me.netlify.app
+- 📫 How to reach me https://apurvapawar-me.netlify.app
 
 - ⚡ Fact about full stack developer **tend to use many languages grouped together according to their needs**
 
