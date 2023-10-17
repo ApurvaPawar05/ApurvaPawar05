@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Problem Solving**
 
-- 🌱 I’m currently learning **Blockchain Development**
-
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me https://apurvapawar-me.netlify.app
