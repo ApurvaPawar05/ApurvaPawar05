@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working as a **Trainee Software Engineer** at EIDIKO Systems Integrators
+- 🔭 I’m currently working as a **Software Engineer** at EIDIKO Systems Integrators
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **IIB/ACE/APIC and DevOps**
 
 - 📫 How to reach me https://apurvapawar-me.netlify.app
 
