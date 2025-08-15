@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer** at EIDIKO Systems Integrators
 
-- 💬 Ask me about **IIB/ACE/APIC and DevOps**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me https://apurvapawar-me.netlify.app
 
